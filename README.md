@@ -25,4 +25,7 @@ Jenkins, Github, Git, Docker, Java, Maven
 ###### Step 5: Connect with Jenkins in Github project repository
 
 ![image](image/Screenshot%202023-02-24%20at%2012.46.07%20am.png)
-![image](image/Screenshot%202023-02-24%20at%2012.46.07%20am.png)
+
+![image](image/Screenshot%202023-02-24%20at%201.05.10%20am.png)
+
+![image](image/Screenshot%202023-02-24%20at%201.05.25%20am.png)
